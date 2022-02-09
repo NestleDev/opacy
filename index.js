@@ -13,7 +13,6 @@ class Opacy {
 
     onEntry(entry) {
         entry.forEach(change => {
-            console.log(this)
             const scrollHandle = this.handler(change.target)
     
             if (change.isIntersecting) {
