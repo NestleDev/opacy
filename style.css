@@ -1,0 +1,29 @@
+.section{
+    height: 100vh;
+    background: #ccc;
+}
+
+.section_2{
+    background: #ccc;
+    height: 2000px;
+    padding: 200px 0;
+}  
+
+.container{
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.box{
+    font-size: 34px;
+    max-width: 300px;
+}
+
+.box_2{
+    margin-top: 400px;
+}
+
+*{
+    margin: 0;
+}
